@@ -22,7 +22,7 @@ this hotkey brings the ScreenTextFinder tab to the front on maximized tabs and s
 Enter is another way to start the search without clicking the button
 so that the rubber ducky doesnt need to tab trough it
 
-- Different selects
+- Different highlights:
 When many things are highlighted, the cursor will move by the highest (the highest is 1)
 so when you click 1, the cursor will "teleport" to the highest and leftest highlighted text
 
