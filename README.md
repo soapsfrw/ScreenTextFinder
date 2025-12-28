@@ -1,10 +1,15 @@
 # ScreenTextFinder
-Source Code for the .exe of ScreenTextFinder tool by soapsfrw for rubberducky to read text on screen by OCR
-For those who really do not trust random .exe file on the internet (dont worry i got you) i uploaded the full sourcecode!
+
+Source Code for the .exe of ScreenTextFinder tool by soapsfrw 
+for rubberducky to read text on screen by OCR
+For those who really do not trust random .exe file on the internet 
+i uploaded the full sourcecode!
 
 # How does it work
-ScreenTextFinder is a powerfull, small, and easy tool that is made only to make the rubber ducky mouse movement and text detection easier
-it uses Windows OCR to read the text on the screen !that doesnt include files on desktop, only In-App text!
+ScreenTextFinder is a powerfull, small, and easy tool that is made only to 
+make the rubber ducky mouse movement and text detection easier
+it uses Windows OCR to read the text on the screen !that doesnt include files on desktop 
+only In-App text!
 
 # How to use it
 
@@ -37,6 +42,8 @@ unfortunately the .NET by itself is about 150MB big so if you have a small rubbe
 
 # Disclaimer
 
-ScreenTextFinder and my payload extension are both extremely powerful over all Windows machines but it's extremely prohibited to do it on an actual victim, my creations are only meant for studying purposes and testing purposes, not ruining someone's day or week
+ScreenTextFinder and my payload extension are both extremely powerful over all Windows machines 
+but it's extremely prohibited to do it on an actual victim, my creations are only meant for studying purposes and testing purposes, 
+not ruining someone's day (or week =) )
 
-# Have fun!
+## Have fun!!
