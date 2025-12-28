@@ -1,6 +1,4 @@
 # ScreenTextFinder
-
-## How does it work
 ScreenTextFinder is a powerfull, small, and easy tool that is made only to 
 make the rubber ducky mouse movement and text detection easier
 it uses Windows OCR to read the text on the screen !that doesnt include files on desktop 
