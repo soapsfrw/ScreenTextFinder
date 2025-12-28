@@ -1,0 +1,12 @@
+﻿<Window x:Class="ScreenTextFinder.OverlayWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Topmost="True"
+        ShowInTaskbar="False"
+        Focusable="True"
+        KeyDown="OverlayWindow_KeyDown">
+    <Canvas x:Name="Root"/>
+</Window>
