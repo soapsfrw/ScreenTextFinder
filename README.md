@@ -6,11 +6,14 @@ it uses Windows OCR to read the text on the screen
 
 ## How to use it
 - Hotkeys:
-1. **CTRL \‎‎ **
+1. **CTRL \‎‎**
+
 this hotkey brings the ScreenTextFinder tab to the front on maximized tabs and selects the textbox to search
 2. **0**
+
 0 simulates the mouse left click, i created this so that the rubber ducky could use the mouse
 3. **ENTER**
+
 Enter is another way to start the search without clicking the button
 so that the rubber ducky doesnt need to tab trough it
 
