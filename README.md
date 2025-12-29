@@ -29,11 +29,15 @@ so when you click *1*, the cursor will *teleport* to the highest and leftest hig
 ## Download
 - [**Exe file self-contained**](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_self_contained.exe)
 
-- [**Small version**](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_Small.exe)
+- [**Small exe version**](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_Small.exe)
 
 - [**Sourcecode**](https://github.com/soapsfrw/ScreenTextFinder/archive/refs/tags/Realeses.zip)
 
 **The small version won't work on computers that dont have .NET downloaded**
+
+##
+
+**I recommed checking out my other** [**projects!**](https://github.com/soapsfrw)
 
 ## Disclaimer
 
