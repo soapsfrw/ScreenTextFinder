@@ -6,7 +6,7 @@ it uses Windows OCR to read the text on the screen
 
 ## How to use it
 - Hotkeys:
-1. **CTRL \***
+1. **CTRL \‎‎ **
 this hotkey brings the ScreenTextFinder tab to the front on maximized tabs and selects the textbox to search
 2. **0**
 0 simulates the mouse left click, i created this so that the rubber ducky could use the mouse
@@ -20,11 +20,11 @@ When many things are highlighted, the cursor will move by the *highest* (the hig
 so when you click *1*, the cursor will *teleport* to the highest and leftest highlighted text
 
 ## Download
-- [Exe file self-contained](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_self_contained.exe)
+- [**Exe file self-contained**](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_self_contained.exe)
 
-- [Small version](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_Small.exe)
+- [**Small version**](https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_Small.exe)
 
-- [Sourcecode](https://github.com/soapsfrw/ScreenTextFinder/archive/refs/tags/Realeses.zip)
+- [**Sourcecode**](https://github.com/soapsfrw/ScreenTextFinder/archive/refs/tags/Realeses.zip)
 
 **The small version won't work on computers that dont have .NET downloaded**
 
