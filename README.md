@@ -27,7 +27,7 @@ When many things are highlighted, the cursor will move by the *highest* (the hig
 so when you click *1*, the cursor will *teleport* to the highest and leftest highlighted text
 
 ## Download
-- [**Exe file self-contained and small version**]([https://github.com/soapsfrw/ScreenTextFinder/releases/download/Realeses/ScreenTextFinder_self_contained.exe](https://github.com/soapsfrw/ScreenTextFinder/releases/tag/Realeses))
+- [**Exe file self-contained and small version**](https://github.com/soapsfrw/ScreenTextFinder/releases/tag/Realeses)
 
 - [**Sourcecode**](https://github.com/soapsfrw/ScreenTextFinder/archive/refs/tags/Realeses.zip)
 
