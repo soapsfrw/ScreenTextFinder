@@ -1,8 +1,9 @@
 # ScreenTextFinder
 ScreenTextFinder is a powerfull, small, and easy tool that is made only to 
-create a rubber ducky mouse movement and text detection.
-it uses Windows OCR to read the text on the screen 
-⚠️that doesnt include files on desktop, only In-App text⚠️
+create a way for the rubber ducky to have a mouse movement and for text detection.
+
+**it uses Windows OCR to read the text on the screen 
+⚠️that doesnt include files on desktop, only In-App text⚠️**
 
 ## How to use it
 - Hotkeys:
